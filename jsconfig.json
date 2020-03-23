@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "./*"
+      ],
+      "@assets/*": [
+        "./assets/*"
+      ],
+      "@actions/*": [
+        "./actions/*"
+      ],
+      "@api/*": [
+        "./api/*"
+      ],
+      "@theme/*": [
+        "./theme/*"
+      ],
+      "@components/*": [
+        "./components/*"
+      ],
+      "@const/*": [
+        "./const/*"
+      ],
+      "@helpers/*": [
+        "./helpers/*"
+      ],
+      "@reducers/*": [
+        "./reducers/*"
+      ],
+      "@screens/*": [
+        "./screens/*"
+      ],
+      "@middleware/*": [
+        "./middleware/*"
+      ],
+      "@interceptors/*": [
+        "./interceptors/*"
+      ],
+      "@navigation/*": [
+        "./navigation/*"
+      ]
+    }
+  }
+}
