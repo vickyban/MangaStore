@@ -7,8 +7,9 @@ import { PADDING, HEIGHT_VARIATIONS } from './contants';
 import BookModal from './BookModal';
 import Masonry from './Masonry';
 
+import { open_modal, close_modal } from '@actions/modal';
+
 export default function BookList() {
-  const [active, setActive] = useState(null);
   const dispatch = useDispatch();
   const { today: todayBooks } = useSelector(state => state.books);
 
@@ -16,9 +17,11 @@ export default function BookList() {
     dispatch(load_today_books())
   }, [])
 
-  const open = (book, measurement) => setActive({ book, measurement });
-  const close = () => setActive(null);
-
+  const open = (book, position) => {
+    const close = () => dispatch(close_modal());
+    const render = () => <BookModal {...{ book, position, close }} />
+    dispatch(open_modal(render))
+  };
 
   const renderItem = book => (<BookThumbmail
     {...{ book, open }} />)
@@ -37,9 +40,6 @@ export default function BookList() {
           />)
         }
       </ScrollView>
-      {
-        active && <BookModal book={active.book} measurement={active.measurement} close={close} />
-      }
     </View>
   )
 }

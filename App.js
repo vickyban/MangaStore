@@ -4,6 +4,7 @@ import { SplashScreen } from 'expo';
 import * as Font from 'expo-font';
 import { Provider as ReduxProvider } from 'react-redux';
 import store from './store';
+import RootModal from './components/common/Modal';
 
 import Navigator from './navigation/index';
 
@@ -12,6 +13,7 @@ export default App = (props) => {
   return (
     <ReduxProvider store={store}>
       <Navigator />
+      <RootModal />
     </ReduxProvider>
   )
 }

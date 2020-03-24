@@ -1,586 +1,344 @@
-[
-  {
-    "kind": "books#volume",
-    "id": "Tet_DwAAQBAJ",
-    "etag": "jeYjQjdB0+w",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/Tet_DwAAQBAJ",
-    "volumeInfo": {
-      "title": "Eternal Love",
-      "authors": [
-        "Galina B. Nelson"
+{
+  "end": 25,
+  "manga": [
+    {
+      "a": "haunted",
+      "c": [],
+      "h": 0,
+      "i": "5db37427719a168daca60ff5",
+      "im": null,
+      "s": 1,
+      "t": "HAUNTED (ホーンテッド)"
+    },
+    {
+      "a": "love-round",
+      "c": [],
+      "h": 0,
+      "i": "5e126eaa719a16695517b6ac",
+      "im": null,
+      "s": 1,
+      "t": "Love Round!!"
+    },
+    {
+      "a": "ouji-no-hakoniwa",
+      "c": [],
+      "h": 0,
+      "i": "5d742c6e719a1606d9325c29",
+      "im": null,
+      "s": 1,
+      "t": "Ouji no Hakoniwa"
+    },
+    {
+      "a": "31-ai-dream",
+      "c": [],
+      "h": 0,
+      "i": "5d782160719a1604ba8b6c06",
+      "im": null,
+      "s": 1,
+      "t": "31 Ai Dream"
+    },
+    {
+      "a": "reamed-on-livestream--forced-to-climax-live-online-verticomix",
+      "c": [],
+      "h": 702,
+      "i": "5e375827719a167e1ba32771",
+      "im": null,
+      "ld": 1581392340.0,
+      "s": 1,
+      "t": "Reamed on Livestream -Forced to Climax Live Online!! [VertiComix]"
+    },
+    {
+      "a": "ivory-dark",
+      "c": [],
+      "h": 0,
+      "i": "5d757e27719a162bbf94ea4e",
+      "im": null,
+      "s": 1,
+      "t": "Ivory Dark"
+    },
+    {
+      "a": "asa-to-micha",
+      "c": [],
+      "h": 0,
+      "i": "5d76d259719a161eb9b7beaa",
+      "im": null,
+      "s": 1,
+      "t": "Asa to Micha"
+    },
+    {
+      "a": "red-theatre",
+      "c": [],
+      "h": 0,
+      "i": "5d7ac42d719a167a48ead55a",
+      "im": null,
+      "s": 1,
+      "t": "Red Theatre"
+    },
+    {
+      "a": "joshiraku",
+      "c": [
+        "Comedy",
+        "Shounen",
+        "Slice of Life"
       ],
-      "publisher": "Galina B. Nelson",
-      "publishedDate": "2018-12-18",
-      "description": "Eternal Love ...is it possible? The breeze, the stars, the moon, the flowers are dancing in the dreams of lovers and whispering: love is eternal if you believe. Is there mending for a broken heart? Are fairies, dragons and fireflies, in fairytales only? If you let dragons to your life why wouldn't you let fairies in? Can you become a creator, can you step beyond of your dream and catch the moonglow bars, take dragon and fly, towards the light? Try to answer these questions when you read about love and dreams to come true in the powerful poetry by G. B. Nelson.",
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 25,
-      "printType": "BOOK",
-      "categories": [
-        "Poetry"
+      "h": 52,
+      "i": "5bfdd0ff719a162b3c196677",
+      "im": "4e/4e55aeda6ba2044eb2762124688b61e74f24880515e71827f1f1e2c4.png",
+      "ld": 1543389646.0,
+      "s": 2,
+      "t": "Joshiraku"
+    },
+    {
+      "a": "shoujo-apocalypse-adventure",
+      "c": [
+        "Adventure",
+        "Drama",
+        "Psychological",
+        "Sci-fi",
+        "Seinen",
+        "Slice of Life",
+        "Tragedy"
       ],
-      "maturityRating": "MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "preview-1.0.0",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=Tet_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=Tet_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.ca/books?id=Tet_DwAAQBAJ&printsec=frontcover&dq=eternal+love+of+dream&hl=&cd=1&source=gbs_api",
-      "infoLink": "http://books.google.ca/books?id=Tet_DwAAQBAJ&dq=eternal+love+of+dream&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Eternal_Love.html?hl=&id=Tet_DwAAQBAJ"
+      "h": 156,
+      "i": "5c410d31719a16035a4647cc",
+      "im": "4a/4a1f2a595e0e84e62f6ceddf3946274478928ca99e8df86bc6511b6e.png",
+      "ld": 1547822837.0,
+      "s": 2,
+      "t": "Shoujo Apocalypse Adventure"
     },
-    "saleInfo": {
-      "country": "CA",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
+    {
+      "a": "fudatsuki-no-kyoko-chan",
+      "c": [
+        "Comedy",
+        "Romance",
+        "School Life",
+        "Shounen",
+        "Supernatural"
+      ],
+      "h": 51636,
+      "i": "5becaeb6719a1683f7f0aa22",
+      "im": "03/0354d29d3c1346facb8c3ae67c6b354c199a33d47add8e131cec2ecb.png",
+      "ld": 1545950900.0,
+      "s": 2,
+      "t": "Fudatsuki no Kyoko-chan"
     },
-    "accessInfo": {
-      "country": "CA",
-      "viewability": "PARTIAL",
-      "embeddable": true,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": true,
-        "acsTokenLink": "http://books.google.ca/books/download/Eternal_Love-sample-pdf.acsm?id=Tet_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=Tet_DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-      "accessViewStatus": "SAMPLE",
-      "quoteSharingAllowed": false
+    {
+      "a": "sometimes-mellow",
+      "c": [
+        "Comedy",
+        "Fantasy",
+        "Historical",
+        "Romance",
+        "Seinen",
+        "Slice of Life"
+      ],
+      "h": 3614,
+      "i": "5baab393719a165eb5b7b848",
+      "im": "2c/2c2d420b3954bebc345b028a3b72f670ec10a37bf9088597fc4f1de8.jpg",
+      "ld": 1537981938.0,
+      "s": 2,
+      "t": "Sometimes Mellow"
     },
-    "searchInfo": {
-      "textSnippet": "Eternal Love ...is it possible? The breeze, the stars, the moon, the flowers are dancing in the dreams of lovers and whispering: love is eternal if you believe. Is there mending for a broken heart?"
+    {
+      "a": "silva",
+      "c": [
+        "Comedy",
+        "School Life",
+        "Shounen"
+      ],
+      "h": 1482,
+      "i": "5c43afa7719a1676f4248ddd",
+      "im": "a7/a76faf3b282b75fb69aca15afbf52d5e7f9fba0d93f0ef876d8801a1.png",
+      "ld": 1548772380.0,
+      "s": 2,
+      "t": "Silva"
+    },
+    {
+      "a": "fuudanjuku-monogatari",
+      "c": [
+        "Comedy",
+        "Romance",
+        "School Life",
+        "Shoujo"
+      ],
+      "h": 624,
+      "i": "5bef5049719a1646bd0b8195",
+      "im": "da/dae9a7689a057ce14cfb5520be04c4f184ac873bf23ee1129042ba40.png",
+      "ld": 1543280045.0,
+      "s": 2,
+      "t": "Fuudanjuku Monogatari"
+    },
+    {
+      "a": "tsubaki-chou-lonely-planet",
+      "c": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "School Life",
+        "Shoujo"
+      ],
+      "h": 31408,
+      "i": "5beb5b4d719a1659032c335d",
+      "im": "5d/5d4ab3ea22c844245f1e5595a77d89412d7b5838bd0888eb0ddc63c8.jpg",
+      "ld": 1560368800.0,
+      "s": 1,
+      "t": "Tsubaki-chou Lonely Planet"
+    },
+    {
+      "a": "dreaming-cat-varim",
+      "c": [
+        "Fantasy",
+        "Shoujo"
+      ],
+      "h": 0,
+      "i": "5beb5c62719a1659032c3954",
+      "im": "0a/0a10d7b7ceed5ab7581e188b9c22a05bdd614432aeb2a715494f1676.png",
+      "ld": 1543222957.0,
+      "s": 2,
+      "t": "Dreaming Cat Varim"
+    },
+    {
+      "a": "lega-no-13",
+      "c": [
+        "Adventure",
+        "Drama",
+        "Gender Bender",
+        "Historical",
+        "Josei",
+        "Mystery",
+        "Romance",
+        "Supernatural"
+      ],
+      "h": 2860,
+      "i": "5bc26f36719a163d66caf403",
+      "im": "89/895a2f7c551df340121483918440668e585c8a6de6b2300cc6fb2e9d.png",
+      "ld": 1539526874.0,
+      "s": 2,
+      "t": "Lega no 13"
+    },
+    {
+      "a": "the-emperors-daughter-novel",
+      "c": [],
+      "h": 572,
+      "i": "5d09627f719a169fca8613be",
+      "im": null,
+      "ld": 1560915256.0,
+      "s": 1,
+      "t": "The Emperor’s Daughter NOVEL"
+    },
+    {
+      "a": "domino-kick",
+      "c": [
+        "Comedy",
+        "Shounen",
+        "Slice of Life"
+      ],
+      "h": 0,
+      "i": "5beb5bd7719a1659032c3659",
+      "im": "57/57fe0f8efa03d784a2f0b80f1cb594ce0cc6e1da4387e665e037cf23.jpg",
+      "ld": 1543220734.0,
+      "s": 1,
+      "t": "Domino Kick"
+    },
+    {
+      "a": "saguri-chan-tankentai",
+      "c": [
+        "Adventure",
+        "Romance",
+        "Shounen",
+        "Slice of Life"
+      ],
+      "h": 3510,
+      "i": "5bf1f399719a168aa30a89c4",
+      "im": "3c/3cdb7ab1db72cdc9d37471448aa6a2639aac5e4ad802a80b599d5946.png",
+      "ld": 1554019857.0,
+      "s": 1,
+      "t": "Saguri-chan Tankentai"
+    },
+    {
+      "a": "revival-man",
+      "c": [
+        "Action",
+        "Drama",
+        "Martial Arts",
+        "Seinen",
+        "Supernatural"
+      ],
+      "h": 50102,
+      "i": "5bff2193719a16336e27e12e",
+      "im": "0d/0dff7a7772e89af82bde21bc82f71613d57fd20c83abd2e67689471e.jpg",
+      "ld": 1584873283.0,
+      "s": 1,
+      "t": "Revival Man"
+    },
+    {
+      "a": "god-does-not-play-dice",
+      "c": [
+        "Comedy",
+        "Ecchi",
+        "Shounen"
+      ],
+      "h": 104,
+      "i": "5bf1f32d719a168aa30a8771",
+      "im": "a4/a42d717bdbe1204fcec32d970ee3992e6dda48e0d9e86ce49388928b.jpg",
+      "ld": 1543283581.0,
+      "s": 2,
+      "t": "God Does Not Play Dice"
+    },
+    {
+      "a": "other-side-of-the-milky-way",
+      "c": [
+        "Fantasy",
+        "Romance",
+        "Sci-fi",
+        "Shoujo"
+      ],
+      "h": 3198,
+      "i": "5b9d85ff719a1643bd9b22a1",
+      "im": "77/7772d62ec2a9ea24ca8cc2e55828f78e1ab40da814369eb0f65f98e5.jpg",
+      "ld": 1537127988.0,
+      "s": 1,
+      "t": "Other Side of the Milky Way"
+    },
+    {
+      "a": "takkoku",
+      "c": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "School Life",
+        "Shounen",
+        "Sports"
+      ],
+      "h": 3406,
+      "i": "5c5cbc43719a161a8f35d48c",
+      "im": "c2/c2b479388bab83104bdb8b90a8b21a3edb65a4fdac2ffc0dc011ad99.jpg",
+      "ld": 1559410873.0,
+      "s": 2,
+      "t": "Takkoku!"
+    },
+    {
+      "a": "epic-of-gilgamesh",
+      "c": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Martial Arts",
+        "Shounen",
+        "Supernatural"
+      ],
+      "h": 51688,
+      "i": "5bf1f425719a168aa30a8c85",
+      "im": "c7/c77bd141dc2c692a5bd97aeb3e08fc57e1eb7832d695961ed8b511d0.jpg",
+      "ld": 1543411113.0,
+      "s": 2,
+      "t": "Epic of Gilgamesh"
     }
-  },
-  {
-    "kind": "books#volume",
-    "id": "xt_sAtu74PIC",
-    "etag": "DxkZC95yLw4",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/xt_sAtu74PIC",
-    "volumeInfo": {
-      "title": "Eternal Love",
-      "authors": [
-        "Maria Teresa Denis"
-      ],
-      "publisher": "AuthorHouse",
-      "publishedDate": "2010-02",
-      "description": "Dr. Mark Morez, child prodigy and now, at the age of 32, is the top neurosurgeon in the world. He could have never imagined that his life was about to totally change in 8 days. With the help of Dr. Thomas Jattan they developed and perfected the ability to transplant a health human brain from a diseased body into a healthy body that's brain has been destroyed. Dr. Morez, a genius mind, has always had a feeling that something was missing from his life, to make him complete, until Ms Abigail Pena came into his life with her mesmerizing emerald green eyes. The extraordinary 72 years, cancer victim, comes to the only man that can save her. Her soul mate. And that is when Dr. Morez experiences the fastest and hardest roller coaster ride of his life and is re-united with his Eternal Love.",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_13",
-          "identifier": "9781449077518"
-        },
-        {
-          "type": "ISBN_10",
-          "identifier": "144907751X"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 212,
-      "printType": "BOOK",
-      "categories": [
-        "Fiction"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "preview-1.0.0",
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=xt_sAtu74PIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=xt_sAtu74PIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.ca/books?id=xt_sAtu74PIC&pg=PA40&dq=eternal+love+of+dream&hl=&cd=2&source=gbs_api",
-      "infoLink": "http://books.google.ca/books?id=xt_sAtu74PIC&dq=eternal+love+of+dream&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Eternal_Love.html?hl=&id=xt_sAtu74PIC"
-    },
-    "saleInfo": {
-      "country": "CA",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "CA",
-      "viewability": "PARTIAL",
-      "embeddable": true,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=xt_sAtu74PIC&hl=&printsec=frontcover&source=gbs_api",
-      "accessViewStatus": "SAMPLE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "<b>DREAMS</b> OR MEMORIES ~ For a day that started out like any other day, it sure <br>\nhas spiraled into the &quot;Twilight Zone&quot;. ... I have been having them every night, the <br>\nsame <b>dreams</b> that tried to overcome my mind when Abigail called me, Her <b>Love</b>."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "zsg7DwAAQBAJ",
-    "etag": "A3Jxj6EAP9U",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/zsg7DwAAQBAJ",
-    "volumeInfo": {
-      "title": "Eternal Love: Romantic Poetry Straight from the Heart",
-      "subtitle": "",
-      "authors": [
-        "Stacey Chillemi"
-      ],
-      "publisher": "Author Stacey Chillemi",
-      "description": "How do you know when you are in love? What is true love and what is not? How can I find a person to love and share the rest of my life? Will true love come to me naturally? How can I build a relationship? The poems in my book answer these questions. People are eager to find true love—love that will not last a short period of time, but for a lifetime. Eternal Love is designed to answer these questions and more. It is divided into two sections that correspond to the way most people “experience” love: the explanation of love and the love poems (using poems and love letters that I created). Each part highlights a particular aspect of love, what love is, and how it can be obtained. Many philosophers and writers have tried to find the true meaning of love, yet true love remains to be one of the most mysterious feelings on this planet. Sometimes we are not always aware when true love comes our way. True love is not something we can control. It takes control of our mind, body, and soul. However, when it does come our way, it enriches our lives and makes our heart sing with joy. True love is magical, and no one should have to live without it. Eternal Love: Romantic Poetry Straight from the Heart is a collection of poems that describes the true meaning of true love. So find a comfortable spot in your home and get ready to encounter the magical journey of eternal love.",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_13",
-          "identifier": "9781257939442"
-        },
-        {
-          "type": "ISBN_10",
-          "identifier": "1257939440"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "printType": "BOOK",
-      "categories": [
-        "Juvenile Nonfiction"
-      ],
-      "maturityRating": "MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.2.1.0.preview.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=zsg7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=zsg7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.ca/books?id=zsg7DwAAQBAJ&printsec=frontcover&dq=eternal+love+of+dream&hl=&cd=3&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=zsg7DwAAQBAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zsg7DwAAQBAJ"
-    },
-    "saleInfo": {
-      "country": "CA",
-      "saleability": "FOR_SALE",
-      "isEbook": true,
-      "listPrice": {
-        "amount": 11.67,
-        "currencyCode": "CAD"
-      },
-      "retailPrice": {
-        "amount": 9.34,
-        "currencyCode": "CAD"
-      },
-      "buyLink": "https://play.google.com/store/books/details?id=zsg7DwAAQBAJ&rdid=book-zsg7DwAAQBAJ&rdot=1&source=gbs_api",
-      "offers": [
-        {
-          "finskyOfferType": 1,
-          "listPrice": {
-            "amountInMicros": 1.167E7,
-            "currencyCode": "CAD"
-          },
-          "retailPrice": {
-            "amountInMicros": 9340000.0,
-            "currencyCode": "CAD"
-          },
-          "giftable": true
-        }
-      ]
-    },
-    "accessInfo": {
-      "country": "CA",
-      "viewability": "PARTIAL",
-      "embeddable": true,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": true,
-        "acsTokenLink": "http://books.google.ca/books/download/Eternal_Love_Romantic_Poetry_Straight_fr-sample-pdf.acsm?id=zsg7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=zsg7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-      "accessViewStatus": "SAMPLE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "True love is magical, and no one should have to live without it. Eternal Love: Romantic Poetry Straight from the Heart is a collection of poems that describes the true meaning of true love."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "eB3uDAAAQBAJ",
-    "etag": "Kl/mpwewIIU",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/eB3uDAAAQBAJ",
-    "volumeInfo": {
-      "title": "Eternal Love",
-      "subtitle": "",
-      "authors": [
-        "Jaydeep Khot"
-      ],
-      "publisher": "The Write Place",
-      "publishedDate": "2016-08-31",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_13",
-          "identifier": "9789352017041"
-        },
-        {
-          "type": "ISBN_10",
-          "identifier": "9352017048"
-        }
-      ],
-      "readingModes": {
-        "text": true,
-        "image": true
-      },
-      "pageCount": 118,
-      "printType": "BOOK",
-      "categories": [
-        "Poetry"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "1.4.3.0.preview.3",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=eB3uDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=eB3uDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.ca/books?id=eB3uDAAAQBAJ&printsec=frontcover&dq=eternal+love+of+dream&hl=&cd=4&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=eB3uDAAAQBAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eB3uDAAAQBAJ"
-    },
-    "saleInfo": {
-      "country": "CA",
-      "saleability": "FOR_SALE",
-      "isEbook": true,
-      "listPrice": {
-        "amount": 1.29,
-        "currencyCode": "CAD"
-      },
-      "retailPrice": {
-        "amount": 1.29,
-        "currencyCode": "CAD"
-      },
-      "buyLink": "https://play.google.com/store/books/details?id=eB3uDAAAQBAJ&rdid=book-eB3uDAAAQBAJ&rdot=1&source=gbs_api",
-      "offers": [
-        {
-          "finskyOfferType": 1,
-          "listPrice": {
-            "amountInMicros": 1290000.0,
-            "currencyCode": "CAD"
-          },
-          "retailPrice": {
-            "amountInMicros": 1290000.0,
-            "currencyCode": "CAD"
-          },
-          "giftable": true
-        }
-      ]
-    },
-    "accessInfo": {
-      "country": "CA",
-      "viewability": "PARTIAL",
-      "embeddable": true,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": true,
-        "acsTokenLink": "http://books.google.ca/books/download/Eternal_Love-sample-epub.acsm?id=eB3uDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "acsTokenLink": "http://books.google.ca/books/download/Eternal_Love-sample-pdf.acsm?id=eB3uDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=eB3uDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-      "accessViewStatus": "SAMPLE",
-      "quoteSharingAllowed": false
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "xt_sAtu74PIC",
-    "etag": "DxkZC95yLw4",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/xt_sAtu74PIC",
-    "volumeInfo": {
-      "title": "Eternal Love",
-      "authors": [
-        "Maria Teresa Denis"
-      ],
-      "publisher": "AuthorHouse",
-      "publishedDate": "2010-02",
-      "description": "Dr. Mark Morez, child prodigy and now, at the age of 32, is the top neurosurgeon in the world. He could have never imagined that his life was about to totally change in 8 days. With the help of Dr. Thomas Jattan they developed and perfected the ability to transplant a health human brain from a diseased body into a healthy body that's brain has been destroyed. Dr. Morez, a genius mind, has always had a feeling that something was missing from his life, to make him complete, until Ms Abigail Pena came into his life with her mesmerizing emerald green eyes. The extraordinary 72 years, cancer victim, comes to the only man that can save her. Her soul mate. And that is when Dr. Morez experiences the fastest and hardest roller coaster ride of his life and is re-united with his Eternal Love.",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_13",
-          "identifier": "9781449077518"
-        },
-        {
-          "type": "ISBN_10",
-          "identifier": "144907751X"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 212,
-      "printType": "BOOK",
-      "categories": [
-        "Fiction"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "preview-1.0.0",
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=xt_sAtu74PIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=xt_sAtu74PIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.ca/books?id=xt_sAtu74PIC&pg=PA40&dq=eternal+love+of+dream&hl=&cd=2&source=gbs_api",
-      "infoLink": "http://books.google.ca/books?id=xt_sAtu74PIC&dq=eternal+love+of+dream&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Eternal_Love.html?hl=&id=xt_sAtu74PIC"
-    },
-    "saleInfo": {
-      "country": "CA",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "CA",
-      "viewability": "PARTIAL",
-      "embeddable": true,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=xt_sAtu74PIC&hl=&printsec=frontcover&source=gbs_api",
-      "accessViewStatus": "SAMPLE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "<b>DREAMS</b> OR MEMORIES ~ For a day that started out like any other day, it sure <br>\nhas spiraled into the &quot;Twilight Zone&quot;. ... I have been having them every night, the <br>\nsame <b>dreams</b> that tried to overcome my mind when Abigail called me, Her <b>Love</b>."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "zsg7DwAAQBAJ",
-    "etag": "A3Jxj6EAP9U",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/zsg7DwAAQBAJ",
-    "volumeInfo": {
-      "title": "Eternal Love: Romantic Poetry Straight from the Heart",
-      "subtitle": "",
-      "authors": [
-        "Stacey Chillemi"
-      ],
-      "publisher": "Author Stacey Chillemi",
-      "description": "How do you know when you are in love? What is true love and what is not? How can I find a person to love and share the rest of my life? Will true love come to me naturally? How can I build a relationship? The poems in my book answer these questions. People are eager to find true love—love that will not last a short period of time, but for a lifetime. Eternal Love is designed to answer these questions and more. It is divided into two sections that correspond to the way most people “experience” love: the explanation of love and the love poems (using poems and love letters that I created). Each part highlights a particular aspect of love, what love is, and how it can be obtained. Many philosophers and writers have tried to find the true meaning of love, yet true love remains to be one of the most mysterious feelings on this planet. Sometimes we are not always aware when true love comes our way. True love is not something we can control. It takes control of our mind, body, and soul. However, when it does come our way, it enriches our lives and makes our heart sing with joy. True love is magical, and no one should have to live without it. Eternal Love: Romantic Poetry Straight from the Heart is a collection of poems that describes the true meaning of true love. So find a comfortable spot in your home and get ready to encounter the magical journey of eternal love.",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_13",
-          "identifier": "9781257939442"
-        },
-        {
-          "type": "ISBN_10",
-          "identifier": "1257939440"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "printType": "BOOK",
-      "categories": [
-        "Juvenile Nonfiction"
-      ],
-      "maturityRating": "MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.2.1.0.preview.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=zsg7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=zsg7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.ca/books?id=zsg7DwAAQBAJ&printsec=frontcover&dq=eternal+love+of+dream&hl=&cd=3&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=zsg7DwAAQBAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zsg7DwAAQBAJ"
-    },
-    "saleInfo": {
-      "country": "CA",
-      "saleability": "FOR_SALE",
-      "isEbook": true,
-      "listPrice": {
-        "amount": 11.67,
-        "currencyCode": "CAD"
-      },
-      "retailPrice": {
-        "amount": 9.34,
-        "currencyCode": "CAD"
-      },
-      "buyLink": "https://play.google.com/store/books/details?id=zsg7DwAAQBAJ&rdid=book-zsg7DwAAQBAJ&rdot=1&source=gbs_api",
-      "offers": [
-        {
-          "finskyOfferType": 1,
-          "listPrice": {
-            "amountInMicros": 1.167E7,
-            "currencyCode": "CAD"
-          },
-          "retailPrice": {
-            "amountInMicros": 9340000.0,
-            "currencyCode": "CAD"
-          },
-          "giftable": true
-        }
-      ]
-    },
-    "accessInfo": {
-      "country": "CA",
-      "viewability": "PARTIAL",
-      "embeddable": true,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": true,
-        "acsTokenLink": "http://books.google.ca/books/download/Eternal_Love_Romantic_Poetry_Straight_fr-sample-pdf.acsm?id=zsg7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=zsg7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-      "accessViewStatus": "SAMPLE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "True love is magical, and no one should have to live without it. Eternal Love: Romantic Poetry Straight from the Heart is a collection of poems that describes the true meaning of true love."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "eB3uDAAAQBAJ",
-    "etag": "Kl/mpwewIIU",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/eB3uDAAAQBAJ",
-    "volumeInfo": {
-      "title": "Eternal Love",
-      "subtitle": "",
-      "authors": [
-        "Jaydeep Khot"
-      ],
-      "publisher": "The Write Place",
-      "publishedDate": "2016-08-31",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_13",
-          "identifier": "9789352017041"
-        },
-        {
-          "type": "ISBN_10",
-          "identifier": "9352017048"
-        }
-      ],
-      "readingModes": {
-        "text": true,
-        "image": true
-      },
-      "pageCount": 118,
-      "printType": "BOOK",
-      "categories": [
-        "Poetry"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "1.4.3.0.preview.3",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=eB3uDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=eB3uDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.ca/books?id=eB3uDAAAQBAJ&printsec=frontcover&dq=eternal+love+of+dream&hl=&cd=4&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=eB3uDAAAQBAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eB3uDAAAQBAJ"
-    },
-    "saleInfo": {
-      "country": "CA",
-      "saleability": "FOR_SALE",
-      "isEbook": true,
-      "listPrice": {
-        "amount": 1.29,
-        "currencyCode": "CAD"
-      },
-      "retailPrice": {
-        "amount": 1.29,
-        "currencyCode": "CAD"
-      },
-      "buyLink": "https://play.google.com/store/books/details?id=eB3uDAAAQBAJ&rdid=book-eB3uDAAAQBAJ&rdot=1&source=gbs_api",
-      "offers": [
-        {
-          "finskyOfferType": 1,
-          "listPrice": {
-            "amountInMicros": 1290000.0,
-            "currencyCode": "CAD"
-          },
-          "retailPrice": {
-            "amountInMicros": 1290000.0,
-            "currencyCode": "CAD"
-          },
-          "giftable": true
-        }
-      ]
-    },
-    "accessInfo": {
-      "country": "CA",
-      "viewability": "PARTIAL",
-      "embeddable": true,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": true,
-        "acsTokenLink": "http://books.google.ca/books/download/Eternal_Love-sample-epub.acsm?id=eB3uDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "acsTokenLink": "http://books.google.ca/books/download/Eternal_Love-sample-pdf.acsm?id=eB3uDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=eB3uDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-      "accessViewStatus": "SAMPLE",
-      "quoteSharingAllowed": false
-    }
-  }
-]
+  ],
+  "page": 0,
+  "start": 0,
+  "total": 7156
+}
