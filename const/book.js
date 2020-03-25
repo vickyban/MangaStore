@@ -14,5 +14,5 @@ export const languages = {
   ENGLISH: 0,
 }
 
-export const MANGA_API_URL = ' https://www.mangaeden.com/api/';
+export const MANGA_API_URL = 'https://www.mangaeden.com/api';
 export const MANGA_IMG_URL = 'https://cdn.mangaeden.com/mangasimg/';

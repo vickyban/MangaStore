@@ -1,10 +1,11 @@
 import { MANGA_API_URL, collectionType, MANGA_API_HOST, MANGA_API_KEY, languages } from '@const/book';
 import axios from 'axios';
-import MockBook from './mockBook.json';
+import MockBooks from './mockBook.json';
+import mockBook from './mock.json';
 
 export const getHeader = () => ({
-  "x-rapidapi-host": MANGA_API_HOST,
-  "x-rapidapi-key": MANGA_API_KEY,
+  // "x-rapidapi-host": MANGA_API_HOST,
+  // "x-rapidapi-key": MANGA_API_KEY,
   'Content-Type': 'application/json'
 })
 
@@ -18,6 +19,15 @@ export const getBooksOfToday = async () => {
   //   headers: getHeader()
   // })
 
-  return MockBook.manga;
+  return MockBooks.manga;
+}
 
+export const getBook = async (id) => {
+  const url = `${MANGA_API_URL}/${collectionType.MANGA}/${id}/`;
+  // const response = await axios({
+  //   method: 'GET',
+  //   url,
+  //   headers: getHeader()
+  // })
+  return mockBook
 }

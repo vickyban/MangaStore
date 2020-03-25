@@ -1,4 +1,4 @@
-import { getBooksOfToday } from '@api/book';
+import { getBooksOfToday, getBook } from '@api/book';
 import * as types from './types';
 import moment from 'moment';
 
@@ -16,4 +16,14 @@ export const load_today_books = () => async (dispatch, getState) => {
     const timeStamp = moment().format();
     dispatch(loaded_today_books(books, timeStamp))
   }
+}
+
+export const loaded_active_book = (book) => ({
+  type: types.LOADED_ACTIVE_BOOK,
+  payload: book
+})
+
+export const load_active_book = (id) => async (dispatch) => {
+  const book = await getBook(id);
+  dispatch(loaded_active_book(book));
 }

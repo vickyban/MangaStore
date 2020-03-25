@@ -5,7 +5,8 @@ import { useSelector, useDispatch } from 'react-redux';
 import BookThumbmail from './BookThumbmail';
 import { PADDING, HEIGHT_VARIATIONS } from './contants';
 import BookModal from './BookModal';
-import Masonry from './Masonry';
+import Masonry from '@components/common/Masonry';
+import { load_active_book } from '@actions/book';
 
 import { open_modal, close_modal } from '@actions/modal';
 
@@ -18,6 +19,7 @@ export default function BookList() {
   }, [])
 
   const open = (book, position) => {
+    dispatch(load_active_book(book.id))
     const close = () => dispatch(close_modal());
     const render = () => <BookModal {...{ book, position, close }} />
     dispatch(open_modal(render))
@@ -47,7 +49,7 @@ export default function BookList() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1
+    flex: 1,
   },
   content: {
     padding: PADDING * 2

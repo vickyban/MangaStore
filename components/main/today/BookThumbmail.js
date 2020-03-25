@@ -2,6 +2,7 @@ import React, { useRef, useState } from 'react';
 import { View, StyleSheet, Image, TouchableWithoutFeedback } from 'react-native';
 import { getPosition, PADDING } from './contants';
 import { TapGestureHandler } from 'react-native-gesture-handler';
+import BookImage from './BookImage';
 
 
 const measure = view => new Promise(resolve => {
@@ -21,7 +22,7 @@ export default function BookThumbmail({ book, open }) {
   return (
     <TouchableWithoutFeedback onPress={startTransition}>
       <View style={styles.content} ref={container}>
-        <Image source={img} style={styles.img} />
+        <BookImage image={book.image} />
       </View>
     </TouchableWithoutFeedback>
   )
@@ -31,13 +32,5 @@ export default function BookThumbmail({ book, open }) {
 const styles = StyleSheet.create({
   content: {
     flex: 1,
-    backgroundColor: 'red',
-    borderRadius: 10,
-    overflow: 'hidden'
   },
-  img: {
-    flex: 1,
-    height: null,
-    width: null
-  }
 })

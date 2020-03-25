@@ -16,7 +16,7 @@ export const runSpring = (clock, from, to) => {
     frameTime: new Value(0),
   }
   const config = {
-    duration: 400,
+    duration: 250,
     toValue: new Value(to),
     easing: Easing.linear,
   }
